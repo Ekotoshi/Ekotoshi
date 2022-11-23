@@ -2,6 +2,7 @@
 #### Atualmente cursando Ciência da Computação (3º período) 📚
 #### Apaixonado por tecnologia e programação ❤️👨🏽‍💻
 #### Com foco em DBA 🔐
+#### e-mail: rafalgnpedev@gmail.com
 
 ####  Minhas Redes Sociais:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ekotoshi)
